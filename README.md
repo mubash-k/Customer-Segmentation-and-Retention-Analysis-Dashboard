@@ -3,7 +3,7 @@
 🎯 Objective
 The objective of this project is to design an interactive Power BI dashboard that provides clear insights into customer segmentation, retention, and profitability. By leveraging RFM scores, CLV values, Recency analysis, and demographic filters, the dashboard highlights customer loyalty, churn risk, and value contribution in a business friendly format.
 🛠 Tools & Technologies
-•	Power BI → for dashboard creation and interactive visuals
+•	Power BI → for dashboard creation and interactive visuals.
 •	Power Query → for preprocessing and cleaning data
 •	RFM & CLV metrics → for customer segmentation and profitability analysis
 📊 Key Features
